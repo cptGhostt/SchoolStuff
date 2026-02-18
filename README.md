@@ -1,2 +1,2 @@
 # SchoolStuff
-Collection of my school assignemnts and projects.
+Collection of school assignemnts and projects I've done.
