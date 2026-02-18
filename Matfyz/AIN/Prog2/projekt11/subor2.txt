@@ -1,0 +1,8 @@
+mo:ix
+ub:mo
+ix:ub
+er:ix
+qa:ix
+er:qa
+ub:er
+qa:ub

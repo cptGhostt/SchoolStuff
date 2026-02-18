@@ -1,0 +1,9 @@
+#1
+a b c d e f 
+b c e 
+c d 
+d e 
+e f 
+f c g h 
+g f h 
+h f g 

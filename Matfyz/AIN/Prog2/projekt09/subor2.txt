@@ -1,0 +1,18 @@
+#2
+a c
+a b
+a e
+a d
+a f
+b c
+b e
+c d
+d e
+e f
+f g
+f c
+f h
+g h
+g f
+h g
+h f
