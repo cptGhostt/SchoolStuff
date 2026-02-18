@@ -1,0 +1,6 @@
+Tri zakladne zakony robotiky.
+Po prve, robot nesmie zranit ludsku bytost alebo dovolit, aby sa jej v dosledku necinnosti ublizilo.
+Po druhe, robot musi posluchat prikazy ludskych bytosti, okrem pripadov, ked by taketo prikazy boli v rozpore s prvym zakonom.
+Po tretie, robot musi chranit svoju vlastnu existenciu, pokial takato ochrana nie je v rozpore s prvym a druhym zakonom
+
+Isaac Asimov

@@ -1,0 +1,3 @@
+prvy riadok
+druhy riadok
+posledny riadok
