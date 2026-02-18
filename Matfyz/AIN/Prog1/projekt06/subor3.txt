@@ -1,0 +1,9 @@
+fd 20 lt -123
+fd 23 rt 123 fd 26 rt 123 fd 29 rt 123 fd 32 rt 123 fd 35 rt 123 fd 38 lt -123
+fd 41 rt 123 fd 44 lt -123
+fd 47 lt -123
+fd 50 lt -123
+fd 53 rt 123 fd 56 rt 123 fd 59 rt 123 fd 62 lt -123
+fd 65 rt 123 fd 68 rt 123 fd 71 lt -123
+fd 74 lt -123
+fd 77 lt -123

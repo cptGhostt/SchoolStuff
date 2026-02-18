@@ -1,0 +1,3 @@
+to jedna [setpw repc fd 5+repc]
+to dva [pu fd 25 pd rt 15]
+repeat 24[repeat 4[jedna rt 90]dva]

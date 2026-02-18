@@ -1,0 +1,6 @@
+setpc 'medium sea green' setpw 15
+repeat 3[repeat 7 [
+fd 200 rt 2*51.42857142857143]lt 120]
+setpc 'blue' setpw 1
+repeat 1000
+[fd repc lt 88]

@@ -1,0 +1,12 @@
+to test [
+    fd 10
+    to test2 [
+        fd 10
+        fd repc
+        lt 30]
+    rt 90
+    repeat 50 [test2]]
+
+
+repeat 5[test rt 45]
+

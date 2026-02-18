@@ -1,0 +1,17 @@
+to trojuholnik [
+    repeat 3 [fd 50 lt 120]
+    ]
+
+to stvorec [
+    repeat 4 [fd 50 rt 90]
+    ]
+
+to dom [
+    stvorec
+    trojuholnik
+    pu fd 100 rt 45 pd]
+
+repeat 8 [dom]
+lt 90 pu fd 300 rt 90 fd -400 pd
+repeat 12 [dom
+lt 45 rt repc rt repc]

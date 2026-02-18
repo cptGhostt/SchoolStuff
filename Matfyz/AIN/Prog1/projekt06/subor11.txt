@@ -1,0 +1,9 @@
+to obluk [repeat 9[fd 9 lt 10]]
+to lupen [obluk lt 90 obluk lt 90]
+to kvet [repeat 10[lupen rt 36]]
+
+kvet
+
+pu fd 150 pd
+lt 30
+repeat 200[fd repc fd repc rt 91]

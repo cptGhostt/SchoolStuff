@@ -1,0 +1,8 @@
+
+lt 90 pu fd 100 rt 30 pd
+
+repeat 4 [
+  fd 50
+  lt 30
+  repeat 3[fd 30 rt 120]lt 60
+] rt 30 fd 70

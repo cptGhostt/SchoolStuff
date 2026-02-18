@@ -1,0 +1,2 @@
+setpc "#ff0077" setpw 15
+repeat 20[fd repc]setpc 'indian red' repeat 30[setpw 15-repc//2 rt 90 fd 100+10*repc]

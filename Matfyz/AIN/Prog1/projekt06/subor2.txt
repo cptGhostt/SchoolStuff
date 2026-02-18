@@ -1,0 +1,11 @@
+          setpc 'blue'
+       setpw 20
+     fd 100
+       rt 180
+         setpw 10
+           setpc 'yellow'
+         fd 40
+       pu
+     fd 20
+       pd
+         fd 40

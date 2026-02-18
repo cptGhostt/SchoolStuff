@@ -1,0 +1,2 @@
+setpc '#0000FF'
+repeat 20 [setpw repc fd 20+repc fd repc rt 45]

@@ -1,0 +1,4 @@
+repeat 10 [] to x[]
+repeat 20000[
+ fd 8
+ rt repc+.11]

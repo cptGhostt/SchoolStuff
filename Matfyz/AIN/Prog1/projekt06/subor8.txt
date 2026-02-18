@@ -1,0 +1,5 @@
+setpw 5 setpc 'deep sky blue' repeat 5 [fd 23 pd fd 23 pu ]pd lt 144 setpc 'blue' repeat 5 [fd 23 pd fd 23 pu ]pd lt 144 setpc 'green' repeat 5 [fd 23 pd fd 23 pu ]pd lt 144 setpc 'red' repeat 5 [fd 23 pd 
+fd 23 pu 
+]pd lt 144 setpc 'YellowGreen' repeat 5 [fd 23 pd 
+fd 23 pu 
+]pd lt 144 

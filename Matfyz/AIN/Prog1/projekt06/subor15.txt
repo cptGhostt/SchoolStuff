@@ -1,0 +1,20 @@
+to poly4 [repeat 4[kresli rt 90]]
+to poly3 [repeat 3[kresli lt 120]]
+to dom [poly4 poly3 pu kresli fd 5 pd]
+pu fd -300 pd
+to kresli [fd 50]
+dom
+to kresli [fd 80]
+dom
+to kresli [fd 50]
+dom
+to kresli [fd 100]
+dom
+to kresli [fd 50]
+dom
+to kresli [fd 80]
+dom
+to kresli [fd 50]
+dom
+to kresli [fd 100]
+dom

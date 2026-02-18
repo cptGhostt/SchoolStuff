@@ -1,0 +1,9 @@
+fd 123
+lt 1
+pu
+fd 1000
+rt 180
+fd 999
+pd
+rt 100
+fd 57
