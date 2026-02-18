@@ -1,0 +1,9 @@
+Google 1998-09-04 2 2
+Search 1997-09-15 10000 50000
+TensorFlow 2017-02-11 20000 100000
+Larry Page | 15000 CEO 1 Search
+Andrew Ng | 20000 DEVELOPER 2 Search TensorFlow
+
+Tesla 2003-07-01 1 1
+S 2012-06-22 20000 0
+Elon Musk | 200000 CEO 1 S
